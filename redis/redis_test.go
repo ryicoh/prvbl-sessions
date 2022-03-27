@@ -5,8 +5,8 @@ import (
 	"github.com/go-redis/redis/v8"
 	"testing"
 
-	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/tester"
+	"github.com/ryicoh/prvbl-sessions"
+	"github.com/ryicoh/prvbl-sessions/tester"
 )
 
 const redisTestServer = "localhost:6379"

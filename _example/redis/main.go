@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/gin-contrib/sessions"
-	redistore "github.com/gin-contrib/sessions/redis"
+	"github.com/ryicoh/prvbl-sessions"
+	redistore "github.com/ryicoh/prvbl-sessions/redis"
 	"github.com/gin-gonic/gin"
 	"github.com/go-redis/redis/v8"
 )

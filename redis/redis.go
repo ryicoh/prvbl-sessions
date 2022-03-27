@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/gin-contrib/sessions"
+	"github.com/ryicoh/prvbl-sessions"
 	"github.com/go-redis/redis/v8"
 	"github.com/rbcervilla/redisstore/v8"
 )
