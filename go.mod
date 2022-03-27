@@ -1,4 +1,4 @@
-module github.com/ryicoh/prvbl-sessions/
+module github.com/ryicoh/prvbl-sessions
 
 go 1.13
 
